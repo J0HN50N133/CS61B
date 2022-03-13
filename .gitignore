@@ -6,7 +6,7 @@
 !**/pom.xml
 !.fatweleminus
 !.gitignore
-!library-sp21
+!src/library-sp21
 !foods.csv
 *.class
 *.log
@@ -370,8 +370,8 @@ tramp
 
 # Capers Lab Things (SP21)
 !Makefile
-!lab6/testing/*
-!lab6/testing/our/*
+!src/lab6/testing/*
+!src/lab6/testing/our/*
 
 # Project 3 Image/Audio/Video Files
 !proj3/**/*.png
